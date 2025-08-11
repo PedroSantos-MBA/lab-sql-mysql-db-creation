@@ -1,2 +1,2 @@
 delete from cars
-where model = 'V60CC';
+where VIN = 'DAM41UDN3CHU2WVF6';
